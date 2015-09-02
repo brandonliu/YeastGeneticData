@@ -1,0 +1,15 @@
+load("/Users/BrandonLiu/Documents/Stanford/Data Analysis/2015EMAP_Rap_EtOH_NaCl_DataSets/EMAPObjects.RData")
+ls()
+Untreated
+Untreated[1,1]
+Untreated[1,2]
+Untreated[1,3]
+Untreated[1,4]
+load("/Users/BrandonLiu/Documents/Stanford/Data Analysis/2015EMAP_Rap_EtOH_NaCl_DataSets/EMAPAliasObjects.RData")
+ls()
+Untreated[1:5, 1:3]
+load("/Users/BrandonLiu/Documents/Stanford/Data Analysis/2015EMAP_Rap_EtOH_NaCl_DataSets/EMAPObjects.RData")
+ls()
+Untreated[1:5, 1:3]
+load("/Users/BrandonLiu/Documents/Stanford/Data Analysis/2015EMAP_Rap_EtOH_NaCl_DataSets/EMAPAliasObjects.RData")
+Untreated[1:5, 1:3]
